@@ -14,23 +14,23 @@
 
 ### Languages:
 
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img align="left" alt="CPP" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" alt="VHDL" width="26px" src="https://lh3.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA"/>
-<img align="left" alt="LabVIEW" width="26px" src="https://its.ucsc.edu/software/images/labview.jpeg"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="left" alt="CPP" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="VHDL" width="30px" src="https://lh3.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA"/>
+<img align="left" alt="LabVIEW" width="30px" src="https://its.ucsc.edu/software/images/labview.jpeg"/>
 
 <br />
 
 ### Tools:
 
-<img align="left" alt="KiCad" width="26px" src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png"/>
-<img align="left" alt="Eagle" width="26px" src="https://www.eurocircuits.com/wp-content/uploads/blog/new-major-eagle-software-update/Eagle.png"/>
-<img align="left" alt="GNU" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/1048px-Heckert_GNU_white.svg.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Eclipse" width="26px" src="https://img.icons8.com/officexs/16/000000/java-eclipse.png"/>
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-<img align="left" alt="CMAKE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/>
+<img align="left" alt="KiCad" width="30px" src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png"/>
+<img align="left" alt="Eagle" width="30px" src="https://www.eurocircuits.com/wp-content/uploads/blog/new-major-eagle-software-update/Eagle.png"/>
+<img align="left" alt="GNU" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/1048px-Heckert_GNU_white.svg.png"/>
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="Eclipse" width="30px" src="https://img.icons8.com/officexs/16/000000/java-eclipse.png"/>
+<img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
+<img align="left" alt="CMAKE" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/>
 
 <br />
 <br />
