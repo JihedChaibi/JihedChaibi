@@ -15,11 +15,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>]
-[<img align="left" alt="CPP" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>]
-[<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]
-[<img align="left" alt="VHDL" width="26px" src="https://lh3.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA"/>]
-[<img align="left" alt="LabVIEW" width="26px" src="https://its.ucsc.edu/software/images/labview.jpeg"/>]
+<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="left" alt="CPP" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="VHDL" width="26px" src="https://lh3.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA"/>
+<img align="left" alt="LabVIEW" width="26px" src="https://its.ucsc.edu/software/images/labview.jpeg"/>
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
