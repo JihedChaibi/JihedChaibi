@@ -13,7 +13,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" alt="CPP" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -22,7 +22,8 @@
 <img align="left" alt="LabVIEW" width="26px" src="https://its.ucsc.edu/software/images/labview.jpeg"/>
 
 <br />
-<br />
+
+### Tools:
 
 <img align="left" alt="KiCad" width="26px" src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
