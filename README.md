@@ -8,9 +8,8 @@
 
 ### Connect with me:
 
-<img align="left" alt="LinkedIn"  href="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/><a href="https://www.linkedin.com/in/jihed-chaibi/" target="_blank">LinkedIn</a>
-
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
 
 <br />
 
@@ -24,3 +23,6 @@
 <br />
 
 ---
+
+[linkedin]: https://linkedin.com/in/JihedChaibi
+[goodreads]: https://www.goodreads.com/user/show/57332945-jih-d-chaibi
