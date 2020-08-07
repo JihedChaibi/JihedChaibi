@@ -3,7 +3,7 @@
 ## I'm an Embedded Developer, Geek, and Student!
 - 🔭 I’m currently working on :
     - A HAL for STM32F4xx microcontrollers
-    - STM32 developement environment with NO IDE  
+    - STM32 developement environment (compile/flash/debug) with NO IDE  
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
