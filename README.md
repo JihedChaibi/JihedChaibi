@@ -1,4 +1,4 @@
-### Hello there 👋, fellow developer, I'm Jihèd 
+### Hello fellow developer 👋 I'm Jihèd 
 
 ## I'm an Embedded Developer, Geek, and Student!
 - 🔭 I’m currently working on :
