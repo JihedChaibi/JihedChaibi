@@ -33,7 +33,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Eclipse" width="26px" src="https://img.icons8.com/officexs/16/000000/java-eclipse.png"/>
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-<img align="left" alt="Git" width="26px" src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png"/>
+<img align="left" alt="RaspberryPi" width="23px" height="28px" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png"/>
 <img align="left" alt="CMAKE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/>
 
 <br />
