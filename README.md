@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on :
     - A HAL for STM32F4xx microcontrollers
     - STM32 developement environment (compile/flash/debug) with NO IDE
-    - AVR peripherals drivers (IO, SPI, I²C, USART etc.)
+    - AVR peripherals drivers (GPIO, SPI, I²C, USART etc.)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
