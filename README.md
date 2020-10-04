@@ -32,6 +32,7 @@
 <img align="left" alt="GNU" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/1048px-Heckert_GNU_white.svg.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/>
+<img align="left" alt="IAR" width="26px" src="https://www.iar.com/globalassets/deploy20190516/iar-ew-logo_v3.svg"/>
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
 <img align="left" alt="FreeRTOS" width="70px" height="30" src="https://upload.wikimedia.org/wikipedia/fr/e/ee/FreeRTOS_Logo.jpg"/>
 <img align="left" alt="CMAKE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/>
