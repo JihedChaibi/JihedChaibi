@@ -1,6 +1,6 @@
 ### Hello fellow developer 👋 I'm Jihèd 
 
-## I'm an Embedded Software/Hardware Developer, Geek, and Student!
+## Embedded Software/Hardware Developer, Geek, and Student!
 - 🔭 I’m currently working on :
     - A HAL for STM32F4xx microcontrollers
     - STM32 developement environment (compile/flash/debug) with NO IDE
