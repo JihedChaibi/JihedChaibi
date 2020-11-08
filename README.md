@@ -42,5 +42,5 @@
 
 ---
 
-[linkedin]: https://linkedin.com/in/JihedChaibi
+[linkedin]: https://linkedin.com/in/Jihed-Chaibi
 [goodreads]: https://www.goodreads.com/user/show/57332945-jih-d-chaibi
