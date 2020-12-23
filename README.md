@@ -9,7 +9,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 
-<img align="left" alt="C" src="https://i.makeagif.com/media/3-15-2016/wMkRou.gif"/>
 
 ### Connect with me:
 
