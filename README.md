@@ -7,7 +7,7 @@
     - (DONE) STM32 developement environment (compile/flash/debug) with NO IDE
     - AVR peripherals drivers (GPIO, SPI, I²C, USART etc.)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 
 
 
