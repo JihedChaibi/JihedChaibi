@@ -1,6 +1,6 @@
 ### Hello fellow developer 👋 I'm Jihèd 
 
-## Embedded Software/Hardware Developer, Geek, and Student!
+## Embedded Linux Engineer
 - 🔭 I’m currently working on :
     - Embedded Linux Drivers Development
     - A HAL for STM32F4xx microcontrollers
