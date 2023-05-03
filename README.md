@@ -37,7 +37,7 @@
 <img align="left" alt="IAR" width="26px" src="https://user-images.githubusercontent.com/17393938/116810189-9cb17980-ab42-11eb-8bed-c21ab5ca95ab.png"/>
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
 <img align="left" alt="FreeRTOS" width="70px" height="30" src="https://upload.wikimedia.org/wikipedia/fr/e/ee/FreeRTOS_Logo.jpg"/>
-<img style="pointer-events: none" align="left" alt="CMAKE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/>
+<img  style="pointer-events: none;  cursor: default;" align="left" alt="CMAKE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/>
 
 <br />
 <br />
