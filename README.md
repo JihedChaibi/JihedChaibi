@@ -21,7 +21,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Goodreads" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/goodreads-512.png" />][goodreads]
 
-<br />
+<br/>
 
 ### Languages (SW/HW) :
 
@@ -29,8 +29,10 @@
 <img align="left" alt="CPP" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="VHDL" width="26px" src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA"/>
 
+<br/>
+
 ### Currently learning :
-<img align="left" alt="C" width="26px" src="[https://img.icons8.com/color/48/000000/c-programming.png](https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png)"/>
+<img align="left" alt="C" width="26px" src="https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png"/>
 
 
 <br />
