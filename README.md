@@ -1,7 +1,7 @@
 ### Hello fellow developer 👋 I am Jihèd 
 
 ## Embedded Linux Engineer/Hobbyist
-- 🔭 I’m currently working on (as personal projects) :
+- 🔭 I’m currently working (as personal projects) on:
     - Embedded Linux Drivers Development
     - A HAL for STM32F4xx microcontrollers
     - STM32 developement environment (compile/flash/debug) with NO IDE
