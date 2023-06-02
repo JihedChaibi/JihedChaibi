@@ -33,7 +33,7 @@
 ### Tools:
 
 <img align="left" alt="KiCad" width="26px" src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png"/>
-<img align="left" alt="Eagle" width="26px" src="https://www.eurocircuits.com/wp-content/uploads/blog/new-major-eagle-software-update/Eagle.png"/>
+<img align="left" alt="Eagle" width="26px" src="https://www.freeiconspng.com/uploads/eagle-icon-png-18.png"/>
 <img align="left" alt="GNU" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/1048px-Heckert_GNU_white.svg.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/>
