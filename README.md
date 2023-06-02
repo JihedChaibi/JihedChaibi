@@ -37,7 +37,7 @@
 
 <br />
 
-### Tools :
+### Software & Dev tools :
 
 <img align="left" alt="KiCad" width="26px" src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png"/>
 <img align="left" alt="Eagle" width="26px" src="https://www.freeiconspng.com/uploads/eagle-icon-png-18.png"/>
@@ -54,4 +54,4 @@
 ---
 
 [linkedin]: https://linkedin.com/in/Jihed-Chaibi
-[goodreads]: https://www.goodreads.com/user/show/57332945-jih-d-chaibi
+[goodreads]: https://www.goodreads.com/jihedchaibi
