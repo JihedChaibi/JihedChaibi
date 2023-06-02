@@ -32,7 +32,7 @@
 <br/>
 
 ### Currently learning :
-<img align="left" alt="C" width="26px" src="https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png"/>
+<img align="left" alt="C" width="26px" src="https://b.thumbs.redditmedia.com/RGBpWy1J00g1sxC71l84oSYnZpvh5DOGUhcbtKz9QcE.png"/>
 
 
 <br />
