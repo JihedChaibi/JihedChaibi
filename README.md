@@ -6,8 +6,9 @@
     - Custom BSPs (poard support packages) for unsupported/not fully supported devices 
 
 - Some of my previous projets :
+
+    - (STM32 developement environment (compile/flash/debug) with NO IDE){https://github.com/JihedChaibi/STM32-with-no-IDE}
     - HAL (hardware abstraction layer) for STM32F4xx microcontrollers
-    - STM32 developement environment (compile/flash/debug) with NO IDE
     - AVR peripherals drivers (GPIO, SPI, I²C, USART etc.)
     - AVR peripherals drivers (GPIO, SPI, I²C, USART etc.)
     
