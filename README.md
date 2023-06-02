@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on (as personal projects) :
     - Embedded Linux Drivers Development
     - A HAL for STM32F4xx microcontrollers
-    - (DONE) STM32 developement environment (compile/flash/debug) with NO IDE
+    - STM32 developement environment (compile/flash/debug) with NO IDE
     - AVR peripherals drivers (GPIO, SPI, I²C, USART etc.)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
