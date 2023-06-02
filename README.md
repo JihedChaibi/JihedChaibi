@@ -3,12 +3,15 @@
 ## Embedded Linux Engineer/Hobbyist
 - 🔭 I’m currently working (as personal projects) on:
     - Embedded Linux Drivers Development
-    - A HAL for STM32F4xx microcontrollers
+    - Custom BSPs (poard support packages) for unsupported/not fully supported devices 
+
+- Some of my previous projets :
+    - HAL (hardware abstraction layer) for STM32F4xx microcontrollers
     - STM32 developement environment (compile/flash/debug) with NO IDE
     - AVR peripherals drivers (GPIO, SPI, I²C, USART etc.)
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: Contribute more to Open Source projects
-
+    - AVR peripherals drivers (GPIO, SPI, I²C, USART etc.)
+    
+- 👯 I’m looking to collaborate with other content creators and contribute to major Open Source projects
 
 
 ### Connect with me:
