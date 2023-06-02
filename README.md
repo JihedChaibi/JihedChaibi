@@ -1,6 +1,7 @@
 ### Hello fellow developer 👋 This is Jihèd 
 
 ## Embedded Linux Engineer/Hobbyist
+
 - 🔭 I’m currently working (as personal projects) on:
     - Embedded Linux Drivers Development
     - Custom BSPs (poard support packages) for unsupported/not fully supported devices 
@@ -22,15 +23,19 @@
 
 <br />
 
-### Languages (SW/HW):
+### Languages (SW/HW) :
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" alt="CPP" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="VHDL" width="26px" src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA"/>
 
+### Currently learning :
+<img align="left" alt="C" width="26px" src="[https://img.icons8.com/color/48/000000/c-programming.png](https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png)"/>
+
+
 <br />
 
-### Tools:
+### Tools :
 
 <img align="left" alt="KiCad" width="26px" src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png"/>
 <img align="left" alt="Eagle" width="26px" src="https://www.freeiconspng.com/uploads/eagle-icon-png-18.png"/>
