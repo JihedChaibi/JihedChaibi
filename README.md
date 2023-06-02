@@ -11,7 +11,7 @@
     - [STM32 developement environment (compile/flash/debug) with NO IDE](https://github.com/JihedChaibi/STM32-with-no-IDE)
     - HAL (hardware abstraction layer) for STM32F4xx microcontrollers
     - AVR peripherals drivers (GPIO, SPI, I²C, USART etc.)
-    - AVR peripherals drivers (GPIO, SPI, I²C, USART etc.)
+    - Custom PCB Layouts
     
 - 👯 I’m looking to collaborate with other content creators and contribute to major Open Source projects
 
