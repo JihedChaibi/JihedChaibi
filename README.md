@@ -18,7 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
+[<img align="left" alt="codeSTACKr | Goodreads" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/goodreads-512.png" />][goodreads]
 
 <br />
 
