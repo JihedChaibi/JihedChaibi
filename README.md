@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working (as personal projects) on:
     - Embedded Linux Drivers Development
-    - Custom BSPs (poard support packages) for unsupported/not fully supported devices 
+    - Custom BSPs (poard support packages) for unsupported/not fully supported devices
+    - NES Games Emulation on STM32MP157F-DK2 Discovery kits 
+
 
 - Some of my previous projets :
 
