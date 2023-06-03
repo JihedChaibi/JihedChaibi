@@ -2,7 +2,7 @@
 
 ## Embedded Linux Engineer/Hobbyist
 
-- 🔭 I’m currently working (as personal projects) on:
+- 🔭 I’m currently working (as personal projects) on :
     - Embedded Linux Drivers Development
     - Custom BSPs (poard support packages) for unsupported/not fully supported devices
     - NES Games Emulation on STM32MP157F-DK2 boards
@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate with other content creators and contribute to major Open Source projects
 
 
-### Connect with me:
+### Connect with me :
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Goodreads" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/goodreads-512.png" />][goodreads]
