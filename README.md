@@ -18,10 +18,7 @@
 - 👯 I’m looking to collaborate with other content creators and contribute to major Open Source projects
 
 
-### Connect with me :
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Goodreads" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/goodreads-512.png" />][goodreads]
 
 <br/>
 
@@ -51,8 +48,14 @@
 <img  style="pointer-events: none;  cursor: default;" align="left" alt="CMAKE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/>
 
 <br />
-<br />
 
+### Connect with me :
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Goodreads" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/goodreads-512.png" />][goodreads]
+
+<br />
+<br />
 ---
 
 [linkedin]: https://linkedin.com/in/Jihed-Chaibi
