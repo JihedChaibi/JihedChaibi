@@ -34,7 +34,7 @@
 <br/>
 
 ### Currently learning :
-<a href="#"><img align="left" alt="C" width="26px" src="https://b.thumbs.redditmedia.com/RGBpWy1J00g1sxC71l84oSYnZpvh5DOGUhcbtKz9QcE.png"></picture>
+<picture><img align="left" alt="C" width="26px" src="https://b.thumbs.redditmedia.com/RGBpWy1J00g1sxC71l84oSYnZpvh5DOGUhcbtKz9QcE.png"></picture>
 
 
 <br />
