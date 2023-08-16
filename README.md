@@ -28,13 +28,13 @@
 ### Languages (SW/HW) :
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/color/48/000000/c-programming.png"><img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"></picture>
-<picture><img align="left" alt="CPP" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></picture>
-<picture><img align="left" alt="VHDL" width="26px" src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"><img align="left" alt="CPP" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA"><img align="left" alt="VHDL" width="26px" src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA"></picture>
 
 <br/>
 
 ### Currently learning :
-<picture><img align="left" alt="C" width="26px" src="https://b.thumbs.redditmedia.com/RGBpWy1J00g1sxC71l84oSYnZpvh5DOGUhcbtKz9QcE.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://b.thumbs.redditmedia.com/RGBpWy1J00g1sxC71l84oSYnZpvh5DOGUhcbtKz9QcE.png"><img align="left" alt="C" width="26px" src="https://b.thumbs.redditmedia.com/RGBpWy1J00g1sxC71l84oSYnZpvh5DOGUhcbtKz9QcE.png"></picture>
 
 
 <br />
