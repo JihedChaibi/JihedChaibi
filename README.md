@@ -28,27 +28,27 @@
 ### Languages (SW/HW) :
 
 <picture><img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"></picture>
-<a href="#"><img align="left" alt="CPP" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-<a href="#"><img align="left" alt="VHDL" width="26px" src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA"/></a>
+<picture><img align="left" alt="CPP" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></picture>
+<picture><img align="left" alt="VHDL" width="26px" src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA"></picture>
 
 <br/>
 
 ### Currently learning :
-<a href="#"><img align="left" alt="C" width="26px" src="https://b.thumbs.redditmedia.com/RGBpWy1J00g1sxC71l84oSYnZpvh5DOGUhcbtKz9QcE.png"/></a>
+<a href="#"><img align="left" alt="C" width="26px" src="https://b.thumbs.redditmedia.com/RGBpWy1J00g1sxC71l84oSYnZpvh5DOGUhcbtKz9QcE.png"></picture>
 
 
 <br />
 
 ### Software & Dev tools :
 
-<a href="#"><img align="left" alt="KiCad" width="26px" src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png"/></a>
-<a href="#"><img align="left" alt="Eagle" width="26px" src="https://www.freeiconspng.com/uploads/eagle-icon-png-18.png"/></a>
-<a href="#"><img align="left" alt="GNU" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/1048px-Heckert_GNU_white.svg.png"/></a>
-<a href="#"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
-<a href="#"><img align="left" alt="Eclipse" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/></a>
-<a href="#"><img align="left" alt="IAR" width="26px" src="https://media.imgcdn.org/repo/2023/03/workbench-for-arm/Workbench-for-ARM.png"/></a>
-<a href="#"><img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a>
-<a href="#"><img  style="pointer-events: none;  cursor: default;" align="left" alt="CMAKE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/></a>
+<picture><img align="left" alt="KiCad" width="26px" src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png"></picture>
+<picture><img align="left" alt="Eagle" width="26px" src="https://www.freeiconspng.com/uploads/eagle-icon-png-18.png"></picture>
+<picture><img align="left" alt="GNU" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/1048px-Heckert_GNU_white.svg.png"></picture>
+<picture><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></picture>
+<picture><img align="left" alt="Eclipse" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"></picture>
+<picture><img align="left" alt="IAR" width="26px" src="https://media.imgcdn.org/repo/2023/03/workbench-for-arm/Workbench-for-ARM.png"></picture>
+<picture><img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></picture>
+<picture><img  style="pointer-events: none;  cursor: default;" align="left" alt="CMAKE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"></picture>
 
 <br />
 <br />
