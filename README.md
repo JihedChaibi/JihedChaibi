@@ -1,8 +1,8 @@
-### Hello fellow developer 👋 This is Jihèd 
+### Hello fellow developer, This is Jihèd 
 
 ## Embedded Linux Engineer/Hobbyist
 
-- 🔭 I’m currently working (as personal projects) on :
+-  I’m currently working (as personal projects) on :
     - Embedded Linux Drivers Development
     - Custom BSPs (poard support packages) for unsupported/not fully supported devices
     - NES Games Emulation on STM32MP157F-DK2 boards
