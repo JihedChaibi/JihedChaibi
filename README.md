@@ -21,7 +21,7 @@
 
 <br/>
 
-### Languages (SW/HW) :
+### Programming languages :
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/color/48/000000/c-programming.png"><img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"><img align="left" alt="CPP" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></picture>
