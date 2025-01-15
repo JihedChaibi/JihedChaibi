@@ -14,9 +14,6 @@
     - HAL (hardware abstraction layer) for STM32F4xx microcontrollers
     - AVR peripherals drivers (GPIO, SPI, I²C, USART etc.)
     - Custom PCB Layouts
-    
-- 👯 I’m looking to collaborate with other content creators and contribute to major Open Source projects
-
 
 ### Connect with me :
 
