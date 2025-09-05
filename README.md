@@ -1,4 +1,4 @@
-## Embedded Linux Engineer/Hobbyist
+## Embedded Linux Engineer and Hobbyist
 
 - Embedded Linux Engineer based in Paris, France
 
