@@ -4,7 +4,7 @@
 
 -  Currently working (as personal projects) on :
     - Custom BSPs (poard support packages) for unsupported/not fully supported devices
-    - Miscellaneous contributions to the Linux Kernel
+    - ASoC & DTS contributions to the Linux Kernel
     - Sound generation on different hardware
     - NES Games Emulation on STM32MP157F-DK2 boards
 
