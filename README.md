@@ -3,8 +3,8 @@
 Independent Embedded Linux and Kernel Engineer based in Paris, France. 
 I work at the boundary of hardware and operating systems: board bring-up, custom Yocto BSPs, device drivers, and low-level system debugging.
 
-🌐 **Professional Services:** [labs.kernelnoise.com](https://labs.kernelnoise.com)
-🎧 **Experimental Lab:** [kernelnoise.com](https://kernelnoise.com)
+🌐 **Professional Services:** [labs.kernelnoise.com](https://labs.kernelnoise.com)  
+🎧 **Experimental Lab:** [kernelnoise.com](https://kernelnoise.com)  
 ✉️ **Contact:** [jihed@kernelnoise.com](mailto:jihed@kernelnoise.com)
 
 ---
@@ -21,14 +21,16 @@ While my primary focus is Cortex-A systems and Linux, I regularly work close to 
 * [STM32 Development Environment (Compile/Flash/Debug) with NO IDE](https://github.com/JihedChaibi/STM32-with-no-IDE)
 * Custom Hardware Abstraction Layers (HAL) for STM32F4xx 
 * Bare-metal AVR peripheral drivers (GPIO, SPI, I²C, USART)
-* Custom PCB Layouts (KiCad / Eagle)
+* Custom PCB Layouts (KiCad)
 
 ### 💻 Stack & Tools
-**Languages:** C, C++, Device Tree, Bash, VHDL
-**OS & Build Systems:** Linux Kernel, Yocto Project / BitBake, U-Boot, Buildroot, CMake
-**Hardware Debugging:** GDB, JTAG, Ftrace, Perf, Oscilloscopes / Logic Analyzers
+* **Languages:** C, C++, Device Tree, Bash, VHDL
+* **OS & Build Systems:** Linux Kernel, Yocto Project / BitBake, U-Boot, Buildroot, CMake
+* **Hardware & Debugging:** GDB, JTAG, Ftrace, Perf, Logic Analyzers / Oscilloscopes
 
 ---
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://linkedin.com/in/Jihed-Chaibi)
-[<img align="left" alt="Goodreads" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/goodreads-512.png" />](https://www.goodreads.com/jihedchaibi)
-<br/>
+
+<p>
+  <a href="https://linkedin.com/in/Jihed-Chaibi" target="_blank">LinkedIn</a> &nbsp;//&nbsp; 
+  <a href="https://www.goodreads.com/jihedchaibi" target="_blank">Goodreads</a>
+</p>
